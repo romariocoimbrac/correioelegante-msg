@@ -1,16 +1,19 @@
-# 💌️ correioelegante-msg 
+# 💌️ correioelegante-msg
+
 Este projeto foi inspirado no tradicional Correio Elegante. Uma brincadeira típica de festas juninas em que uma pessoa envia um bilhetinho para ser entregue a uma outra pessoa.
 
-![App Demo]()
+![App Demo](https://github.com/romariocoimbrac/correioelegante-msg/blob/main/correio-elegante.png)
 
 ## 💻 Sobre o projeto
-Criar uma aplicação, utilizando ReactJS, NodeJS e Socket.io 
+
+Criar uma aplicação, utilizando ReactJS, NodeJS e Socket.io
 
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em duas partes:
+
 1. [Frontend](https://github.com/romariocoimbrac/correioelegante-msg)
-2. [Backend](https://github.com/romariocoimbrac/correioelegante-server) 
+2. [Backend](https://github.com/romariocoimbrac/correioelegante-server)
 
 💡 O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
